@@ -14,14 +14,13 @@ echo "<script>
     
     // Yahan apna real Firebase Config dalein
     const firebaseConfig = {
-  apiKey: "AIzaSyAx_lir4lbck0m5ExjgSMVRwQ32TpcLKcA",
-  authDomain: "sent-b88cf.firebaseapp.com",
-  databaseURL: "https://sent-b88cf-default-rtdb.firebaseio.com",
-  projectId: "sent-b88cf",
-  storageBucket: "sent-b88cf.firebasestorage.app",
-  messagingSenderId: "472674174510",
-  appId: "1:472674174510:web:ff573430e68b6c4ac281bf"
-};
-
+        apiKey: 'AIzaSyAx_lir4lbck0m5ExjgSMVRwQ32TpcLKcA',
+        authDomain: 'sent-b88cf.firebaseapp.com',
+        databaseURL: 'https://sent-b88cf-default-rtdb.firebaseio.com',
+        projectId: 'sent-b88cf',
+        storageBucket: 'sent-b88cf.firebasestorage.app',
+        messagingSenderId: '472674174510',
+        appId: '1:472674174510:web:ff573430e68b6c4ac281bf'
+    };
 </script>";
 ?>
